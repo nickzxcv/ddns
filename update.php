@@ -3,6 +3,8 @@
 #
 # this script was published in http://pablohoffman.com/articles and 
 # released to the public domain by Pablo Hoffman on 27 Aug 2006
+#
+# support for IPv4 and IPv6 by Nick Schmalenberger on April 8, 2018
 
 # CONFIGURATION BEGINS -------------------------------------------------------
 # define host and passwords here 
